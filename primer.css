@@ -1,0 +1,28 @@
+body{
+    background-color: darkgrey;
+}
+h2{
+    font-size: 36px;
+    color: blueviolet;
+    text-align: center;
+}
+
+.imagen{
+    display: flex;
+    justify-content:center ;
+    align-items: center;
+   
+    }
+.pregunta{
+    font-weight: bold;
+    font-size: 20px;
+}    
+.masPreguntas{
+    text-align: center;
+    font-size: 22px;
+}
+.container_form{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
